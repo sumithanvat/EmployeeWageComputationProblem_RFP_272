@@ -42,6 +42,12 @@ public class EmployeeWage {
         }
 
 
+        //uc5
+        int workingDay = 20;
+        double totalWage = wagePerHour*fullTimeHour*workingDay;
+        System.out.println("uc5 total monthly wage is :-"+totalWage);
+
+
 
 
 
