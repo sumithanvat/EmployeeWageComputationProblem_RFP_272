@@ -47,7 +47,7 @@ public class EmployeeWage {
         double totalWage = wagePerHour*fullTimeHour*workingDay;
         System.out.println("uc5 total monthly wage is :-"+totalWage);
 
-        // UC 5: Calculate Wages till a condition of total working hours or days is reached for a month
+        // UC 6: Calculate Wages till a condition of total working hours or days is reached for a month
         int maxWorkingHours = 100;
         int maxWorkingDays = 20;
         int empHours = 0;
